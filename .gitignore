@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+samples/jokimaa.docx
+samples/valiokunta.pdf
+samples/testi.txt
+samples/testi.csv
+samples/hyokkays.txt
+samples/hienovarainen.txt
